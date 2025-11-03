@@ -19,8 +19,12 @@ I merge *cutting-edge technology* with *real-world impact* — turning ideas int
 - ML & AI: TensorFlow, Azure ML, Scikit-Learn, Numpy, Pandas, OpenCV 
 
 ---
+## Github Stats : 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticdevelopersim)](https://github.com/mysticdevelopersim/github-readme-stats)
+<img alt = "my stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=mysticdevelopersim&theme=radical"/>
+
+<img alt = "top langs" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mysticdevelopersim&theme=radical"/>
+
 <!--
 **mysticdevelopersim/mysticdevelopersim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
