@@ -47,10 +47,6 @@ I merge *cutting-edge technology* with *real-world impact* — turning ideas int
 
 <img alt = "top langs" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mysticdevelopersim"/>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mysticdevelopersim)](https://git.io/streak-stats)
-
-
 <!--
 **mysticdevelopersim/mysticdevelopersim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
