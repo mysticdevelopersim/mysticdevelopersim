@@ -43,7 +43,7 @@ I merge *cutting-edge technology* with *real-world impact* — turning ideas int
 
 ## Github Stats : 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mysticdevelopersim)](https://github.com/mysticdevelopersim)
+<img alt = "stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=mysticdevelopersim"/>
 
 <img alt = "top langs" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mysticdevelopersim"/>
 
